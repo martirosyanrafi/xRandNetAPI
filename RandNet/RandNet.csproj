@@ -263,10 +263,6 @@
       <Project>{0F69615E-50D1-40D9-896A-2887A8C68B09}</Project>
       <Name>Storage</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Web\Web.csproj">
-      <Project>{95043007-1fc4-4046-94ef-f58369f0d2d7}</Project>
-      <Name>Web</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">

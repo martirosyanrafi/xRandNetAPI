@@ -218,7 +218,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pXn2xI3x4X+XR7ns04WkLi2I2O9HMv1u59EMeE08F/U=</dsig:DigestValue>
+        <dsig:DigestValue>/uJyEvMD674i8p0+lUmLq8gqhkK2EjdOrN/53RG5G2g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -315,18 +315,6 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>wHns1MYqURbEtkBo/PsdPvc1NcOjAUbKb9m9m3B04bc=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Web.dll" size="5120">
-      <assemblyIdentity name="Web" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qBgOgeL1pFD1mGlczzwvEc/8mPNOJgoejwKbjGfp+lA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
