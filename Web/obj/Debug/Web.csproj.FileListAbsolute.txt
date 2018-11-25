@@ -1,0 +1,15 @@
+D:\projects\xRandNet\api\application\Web\bin\Debug\Web.dll.config
+D:\projects\xRandNet\api\application\Web\bin\Debug\Web.dll
+D:\projects\xRandNet\api\application\Web\bin\Debug\Web.pdb
+D:\projects\xRandNet\api\application\Web\bin\Debug\Newtonsoft.Json.dll
+D:\projects\xRandNet\api\application\Web\bin\Debug\System.Net.Http.Formatting.dll
+D:\projects\xRandNet\api\application\Web\bin\Debug\System.Web.Http.dll
+D:\projects\xRandNet\api\application\Web\bin\Debug\System.Web.Http.WebHost.dll
+D:\projects\xRandNet\api\application\Web\bin\Debug\Newtonsoft.Json.xml
+D:\projects\xRandNet\api\application\Web\bin\Debug\System.Net.Http.Formatting.xml
+D:\projects\xRandNet\api\application\Web\bin\Debug\System.Web.Http.xml
+D:\projects\xRandNet\api\application\Web\bin\Debug\System.Web.Http.WebHost.xml
+D:\projects\xRandNet\api\application\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\projects\xRandNet\api\application\Web\obj\Debug\Web.csproj.CopyComplete
+D:\projects\xRandNet\api\application\Web\obj\Debug\Web.dll
+D:\projects\xRandNet\api\application\Web\obj\Debug\Web.pdb

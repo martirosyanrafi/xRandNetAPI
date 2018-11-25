@@ -1,0 +1,12 @@
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\bin\x64\Debug\RegularERModel.dll
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\bin\x64\Debug\RegularERModel.pdb
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\bin\x64\Debug\Core.dll
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\bin\x64\Debug\NetworkModel.dll
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\bin\x64\Debug\RandomNumberGeneration.dll
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\bin\x64\Debug\Core.pdb
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\bin\x64\Debug\NetworkModel.pdb
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\bin\x64\Debug\RandomNumberGeneration.pdb
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\obj\x64\Debug\RegularERModel.csprojResolveAssemblyReference.cache
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\obj\x64\Debug\RegularERModel.csproj.CoreCompileInputs.cache
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\obj\x64\Debug\RegularERModel.dll
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\obj\x64\Debug\RegularERModel.pdb

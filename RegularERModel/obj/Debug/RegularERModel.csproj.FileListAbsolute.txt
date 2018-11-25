@@ -1,0 +1,5 @@
+N:\Ani\Disertation\GitHub\xRandNet\Library\RegularERModel.dll
+N:\Ani\Disertation\GitHub\xRandNet\Library\RegularERModel.pdb
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\obj\Debug\RegularERModel.csprojResolveAssemblyReference.cache
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\obj\Debug\RegularERModel.dll
+N:\Ani\Disertation\GitHub\xRandNet\RegularERModel\obj\Debug\RegularERModel.pdb
