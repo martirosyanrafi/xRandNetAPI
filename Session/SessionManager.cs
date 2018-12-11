@@ -48,7 +48,7 @@ namespace Session
 
         static SessionManager()
         {
-            Logger.Write("---------------------- SESSION MANAGER STARTED ----------------------");
+            SessionManager.Log("---------------------- SESSION MANAGER STARTED ----------------------");
             existingResearches = new Dictionary<Guid, AbstractResearch>();
         }
 
@@ -143,7 +143,7 @@ namespace Session
                 r.ResearchParameterValues = researchToClone.ResearchParameterValues;
                 r.GenerationParameterValues = researchToClone.GenerationParameterValues;
                 r.AnalyzeOption = researchToClone.AnalyzeOption;
-                
+
                 return r.ResearchID;
             }
             catch (KeyNotFoundException)
@@ -697,8 +697,8 @@ namespace Session
         /// <param name="id">ID of research.</param>
         /// <param name="p">Research parameter.</param>
         /// <param name="value">Value to set.</param>
-        public static void SetResearchParameterValue(Guid id, 
-            ResearchParameter p, 
+        public static void SetResearchParameterValue(Guid id,
+            ResearchParameter p,
             object value)
         {
             try
@@ -733,7 +733,7 @@ namespace Session
                 gp.Add(GenerationParameter.AdjacencyMatrix);
                 return gp;
             }
-            
+
             ModelTypeInfo[] info = (ModelTypeInfo[])mt.GetType().GetField(mt.ToString()).GetCustomAttributes(typeof(ModelTypeInfo), false);
             Type t = Type.GetType(info[0].Implementation, true);
 
@@ -771,8 +771,8 @@ namespace Session
         /// <param name="id">ID of research.</param>
         /// <param name="p">Generation parameter.</param>
         /// <param name="value">Value to set.</param>
-        public static void SetGenerationParameterValue(Guid id, 
-            GenerationParameter p, 
+        public static void SetGenerationParameterValue(Guid id,
+            GenerationParameter p,
             object value)
         {
             try
@@ -879,6 +879,17 @@ namespace Session
             catch (KeyNotFoundException)
             {
                 throw new CoreException("Specified research does not exists.");
+            }
+        }
+
+        public static void Log(string text)
+        {
+            try
+            {
+                Logger.Write(text);
+            } catch
+            {
+                // @ToDo
             }
         }
     }

@@ -22,3 +22,10 @@ D:\projects\xRandNet\api\application\Manager\obj\Debug\Manager.csproj.CoreCompil
 D:\projects\xRandNet\api\application\Manager\obj\Debug\Manager.csproj.CopyComplete
 D:\projects\xRandNet\api\application\Manager\obj\Debug\Manager.dll
 D:\projects\xRandNet\api\application\Manager\obj\Debug\Manager.pdb
+D:\projects\xRandNetApplicationAPI\Library\Manager.dll
+D:\projects\xRandNetApplicationAPI\Library\Manager.pdb
+D:\projects\xRandNetApplicationAPI\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+D:\projects\xRandNetApplicationAPI\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+D:\projects\xRandNetApplicationAPI\Manager\obj\Debug\Manager.csproj.CopyComplete
+D:\projects\xRandNetApplicationAPI\Manager\obj\Debug\Manager.dll
+D:\projects\xRandNetApplicationAPI\Manager\obj\Debug\Manager.pdb

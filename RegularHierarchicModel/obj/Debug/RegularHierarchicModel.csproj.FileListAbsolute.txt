@@ -23,3 +23,10 @@ D:\projects\xRandNet\api\application\RegularHierarchicModel\obj\Debug\RegularHie
 D:\projects\xRandNet\api\application\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.csproj.CopyComplete
 D:\projects\xRandNet\api\application\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.dll
 D:\projects\xRandNet\api\application\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.pdb
+D:\projects\xRandNetApplicationAPI\Library\RegularHierarchicModel.dll
+D:\projects\xRandNetApplicationAPI\Library\RegularHierarchicModel.pdb
+D:\projects\xRandNetApplicationAPI\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.csprojResolveAssemblyReference.cache
+D:\projects\xRandNetApplicationAPI\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.csproj.CoreCompileInputs.cache
+D:\projects\xRandNetApplicationAPI\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.csproj.CopyComplete
+D:\projects\xRandNetApplicationAPI\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.dll
+D:\projects\xRandNetApplicationAPI\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.pdb

@@ -22,3 +22,10 @@ D:\projects\xRandNet\api\application\Storage\obj\Debug\Storage.csproj.CoreCompil
 D:\projects\xRandNet\api\application\Storage\obj\Debug\Storage.csproj.CopyComplete
 D:\projects\xRandNet\api\application\Storage\obj\Debug\Storage.dll
 D:\projects\xRandNet\api\application\Storage\obj\Debug\Storage.pdb
+D:\projects\xRandNetApplicationAPI\Library\Storage.dll
+D:\projects\xRandNetApplicationAPI\Library\Storage.pdb
+D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
+D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.csproj.CopyComplete
+D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.dll
+D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.pdb

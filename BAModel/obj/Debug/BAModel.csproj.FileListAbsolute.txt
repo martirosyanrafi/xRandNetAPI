@@ -22,3 +22,10 @@ D:\projects\xRandNet\api\application\BAModel\obj\Debug\BAModel.csproj.CoreCompil
 D:\projects\xRandNet\api\application\BAModel\obj\Debug\BAModel.csproj.CopyComplete
 D:\projects\xRandNet\api\application\BAModel\obj\Debug\BAModel.dll
 D:\projects\xRandNet\api\application\BAModel\obj\Debug\BAModel.pdb
+D:\projects\xRandNetApplicationAPI\Library\BAModel.dll
+D:\projects\xRandNetApplicationAPI\Library\BAModel.pdb
+D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.csprojResolveAssemblyReference.cache
+D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.csproj.CoreCompileInputs.cache
+D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.csproj.CopyComplete
+D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.dll
+D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.pdb

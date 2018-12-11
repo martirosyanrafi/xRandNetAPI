@@ -14,6 +14,7 @@ using Core.Attributes;
 using Core.Result;
 using Core.Utility;
 using Core.Exceptions;
+using Core.Settings;
 
 namespace Storage
 {
@@ -29,6 +30,10 @@ namespace Storage
 
         public XMLResultStorage(string str) : base(str) 
         {
+            if(RandNetSettings.webMode)
+            {
+                return;
+            }
             if (!storageStr.EndsWith(Path.DirectorySeparatorChar.ToString()))
             {
                 storageStr += Path.DirectorySeparatorChar;

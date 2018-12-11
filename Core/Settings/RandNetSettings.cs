@@ -20,6 +20,7 @@ namespace Core.Settings
     /// </summary>
     public static class RandNetSettings
     {
+        static public bool webMode = true;
         static private String defaultDirectory = 
             Directory.GetParent(Directory.GetCurrentDirectory()).FullName + "\\xRandNet";
 
@@ -39,6 +40,11 @@ namespace Core.Settings
 
         static RandNetSettings()
         {
+            if(webMode)
+            {
+                return;
+            }
+
             config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
 
             try

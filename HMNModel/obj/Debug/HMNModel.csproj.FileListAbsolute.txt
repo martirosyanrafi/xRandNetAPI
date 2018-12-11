@@ -22,3 +22,9 @@ D:\projects\xRandNet\api\application\HMNModel\obj\Debug\HMNModel.csproj.CoreComp
 D:\projects\xRandNet\api\application\HMNModel\obj\Debug\HMNModel.csproj.CopyComplete
 D:\projects\xRandNet\api\application\HMNModel\obj\Debug\HMNModel.dll
 D:\projects\xRandNet\api\application\HMNModel\obj\Debug\HMNModel.pdb
+D:\projects\xRandNetApplicationAPI\Library\HMNModel.dll
+D:\projects\xRandNetApplicationAPI\Library\HMNModel.pdb
+D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.csproj.CoreCompileInputs.cache
+D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.csproj.CopyComplete
+D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.dll
+D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.pdb

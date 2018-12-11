@@ -23,3 +23,10 @@ D:\projects\xRandNet\api\application\NonRegularHierarchicModel\obj\Debug\NonRegu
 D:\projects\xRandNet\api\application\NonRegularHierarchicModel\obj\Debug\NonRegularHierarchicModel.csproj.CopyComplete
 D:\projects\xRandNet\api\application\NonRegularHierarchicModel\obj\Debug\NonRegularHierarchicModel.dll
 D:\projects\xRandNet\api\application\NonRegularHierarchicModel\obj\Debug\NonRegularHierarchicModel.pdb
+D:\projects\xRandNetApplicationAPI\Library\NonRegularHierarchicModel.dll
+D:\projects\xRandNetApplicationAPI\Library\NonRegularHierarchicModel.pdb
+D:\projects\xRandNetApplicationAPI\NonRegularHierarchicModel\obj\Debug\NonRegularHierarchicModel.csprojResolveAssemblyReference.cache
+D:\projects\xRandNetApplicationAPI\NonRegularHierarchicModel\obj\Debug\NonRegularHierarchicModel.csproj.CoreCompileInputs.cache
+D:\projects\xRandNetApplicationAPI\NonRegularHierarchicModel\obj\Debug\NonRegularHierarchicModel.csproj.CopyComplete
+D:\projects\xRandNetApplicationAPI\NonRegularHierarchicModel\obj\Debug\NonRegularHierarchicModel.dll
+D:\projects\xRandNetApplicationAPI\NonRegularHierarchicModel\obj\Debug\NonRegularHierarchicModel.pdb

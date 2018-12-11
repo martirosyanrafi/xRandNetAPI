@@ -23,3 +23,10 @@ D:\projects\xRandNet\api\application\Research\obj\Debug\Research.csproj.CoreComp
 D:\projects\xRandNet\api\application\Research\obj\Debug\Research.csproj.CopyComplete
 D:\projects\xRandNet\api\application\Research\obj\Debug\Research.dll
 D:\projects\xRandNet\api\application\Research\obj\Debug\Research.pdb
+D:\projects\xRandNetApplicationAPI\Library\Research.dll
+D:\projects\xRandNetApplicationAPI\Library\Research.pdb
+D:\projects\xRandNetApplicationAPI\Research\obj\Debug\Research.csprojResolveAssemblyReference.cache
+D:\projects\xRandNetApplicationAPI\Research\obj\Debug\Research.csproj.CoreCompileInputs.cache
+D:\projects\xRandNetApplicationAPI\Research\obj\Debug\Research.csproj.CopyComplete
+D:\projects\xRandNetApplicationAPI\Research\obj\Debug\Research.dll
+D:\projects\xRandNetApplicationAPI\Research\obj\Debug\Research.pdb

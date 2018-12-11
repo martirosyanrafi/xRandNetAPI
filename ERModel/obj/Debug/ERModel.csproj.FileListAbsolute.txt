@@ -22,3 +22,10 @@ D:\projects\xRandNet\api\application\ERModel\obj\Debug\ERModel.csproj.CoreCompil
 D:\projects\xRandNet\api\application\ERModel\obj\Debug\ERModel.csproj.CopyComplete
 D:\projects\xRandNet\api\application\ERModel\obj\Debug\ERModel.dll
 D:\projects\xRandNet\api\application\ERModel\obj\Debug\ERModel.pdb
+D:\projects\xRandNetApplicationAPI\Library\ERModel.dll
+D:\projects\xRandNetApplicationAPI\Library\ERModel.pdb
+D:\projects\xRandNetApplicationAPI\ERModel\obj\Debug\ERModel.csprojResolveAssemblyReference.cache
+D:\projects\xRandNetApplicationAPI\ERModel\obj\Debug\ERModel.csproj.CoreCompileInputs.cache
+D:\projects\xRandNetApplicationAPI\ERModel\obj\Debug\ERModel.csproj.CopyComplete
+D:\projects\xRandNetApplicationAPI\ERModel\obj\Debug\ERModel.dll
+D:\projects\xRandNetApplicationAPI\ERModel\obj\Debug\ERModel.pdb

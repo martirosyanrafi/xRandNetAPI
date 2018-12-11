@@ -23,3 +23,10 @@ D:\projects\xRandNet\api\application\Session\obj\Debug\Session.csproj.CoreCompil
 D:\projects\xRandNet\api\application\Session\obj\Debug\Session.csproj.CopyComplete
 D:\projects\xRandNet\api\application\Session\obj\Debug\Session.dll
 D:\projects\xRandNet\api\application\Session\obj\Debug\Session.pdb
+D:\projects\xRandNetApplicationAPI\Library\Session.dll
+D:\projects\xRandNetApplicationAPI\Library\Session.pdb
+D:\projects\xRandNetApplicationAPI\Session\obj\Debug\Session.csprojResolveAssemblyReference.cache
+D:\projects\xRandNetApplicationAPI\Session\obj\Debug\Session.csproj.CoreCompileInputs.cache
+D:\projects\xRandNetApplicationAPI\Session\obj\Debug\Session.csproj.CopyComplete
+D:\projects\xRandNetApplicationAPI\Session\obj\Debug\Session.dll
+D:\projects\xRandNetApplicationAPI\Session\obj\Debug\Session.pdb
