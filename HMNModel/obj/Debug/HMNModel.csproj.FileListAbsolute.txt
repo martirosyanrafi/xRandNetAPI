@@ -28,3 +28,4 @@ D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.csproj.CoreCompil
 D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.csproj.CopyComplete
 D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.dll
 D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.pdb
+D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.csprojResolveAssemblyReference.cache

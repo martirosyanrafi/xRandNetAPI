@@ -20,7 +20,7 @@ namespace Core.Settings
     /// </summary>
     public static class RandNetSettings
     {
-        static public bool webMode = true;
+        static public bool webMode = false;
         static private String defaultDirectory = 
             Directory.GetParent(Directory.GetCurrentDirectory()).FullName + "\\xRandNet";
 

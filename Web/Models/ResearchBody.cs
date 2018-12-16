@@ -13,6 +13,7 @@ namespace Web.Models
         public string generation { get; set; }
         public bool connected { get; set; }
         public int count { get; set; }
-        public List<AnalyzeOptionBody> analyzeOptions { get; set; }
+        public List<OptionBody> analyzeOptions { get; set; }
+        public List<OptionBody> parameters { get; set; }
     }
 }

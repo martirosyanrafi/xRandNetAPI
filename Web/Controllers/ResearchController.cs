@@ -1,4 +1,5 @@
 ﻿using Core.Enumerations;
+using Core.Exceptions;
 using Session;
 using System;
 using System.Collections.Generic;
@@ -11,12 +12,8 @@ namespace Web.Controllers
 {
     public class ResearchController : Controller
     {
-        public string Index()
-        {
-            return "sdf";
-        }
-
-        [HttpPost]
+ 
+        [HttpGet]
         public string Start([System.Web.Http.FromBody] ResearchBody content)
         {
             Guid ResultResearchId = SessionManager.CreateResearch(GetType<ResearchType>(content.research));
@@ -31,6 +28,9 @@ namespace Web.Controllers
             SessionManager.SetResearchCheckConnectedh(ResultResearchId, content.connected);
             SessionManager.SetResearchRealizationCount(ResultResearchId, content.count);
 
+            SetAnalyzeOptionsValues(ResultResearchId, content.analyzeOptions);
+            SetParameterValues(ResultResearchId, content.parameters);
+
             return content.name;
         }
 
@@ -39,10 +39,10 @@ namespace Web.Controllers
             return (T)Enum.Parse(typeof(T), name);
         }
 
-        private void SetAnalyzeOptionsValues(Guid ResultResearchId, List<AnalyzeOptionBody> options)
+        private void SetAnalyzeOptionsValues(Guid ResultResearchId, List<OptionBody> options)
         {
             AnalyzeOption opts = SessionManager.GetAnalyzeOptions(ResultResearchId);
-            foreach (AnalyzeOptionBody option in options)
+            foreach (OptionBody option in options)
             {
                 AnalyzeOption current = GetType<AnalyzeOption>(option.key);
                 if (option.value)
@@ -51,6 +51,23 @@ namespace Web.Controllers
                     opts &= ~current;
             }
             SessionManager.SetAnalyzeOptions(ResultResearchId, opts);
+        }
+
+        private void SetParameterValues(Guid ResultResearchId, List<OptionBody> options)
+        {
+            foreach (OptionBody option in options)
+            {
+                string pName = option.key;
+                Object pValue = option.value;
+                ResearchParameter rp;
+                GenerationParameter gp;
+                if (Enum.TryParse(pName, out rp))
+                    SessionManager.SetResearchParameterValue(ResultResearchId, rp, pValue);
+                else if (Enum.TryParse(pName, out gp))
+                    SessionManager.SetGenerationParameterValue(ResultResearchId, gp, pValue);
+                else
+                    throw new CoreException("Unknown parameter.");
+            }
         }
     }
 }

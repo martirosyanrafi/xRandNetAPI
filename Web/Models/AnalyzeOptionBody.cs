@@ -5,7 +5,7 @@ using System.Web;
 
 namespace Web.Models
 {
-    public class AnalyzeOptionBody
+    public class OptionBody
     {
         public string key { get; set; }
         public bool value { get; set; }
