@@ -16,3 +16,10 @@ C:\work\xRandNet_students\RegularHierarchicModel\obj\Debug\RegularHierarchicMode
 C:\work\xRandNet_students\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.dll
 C:\work\xRandNet_students\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.pdb
+C:\Projects\xRandNetApi\Library\RegularHierarchicModel.dll
+C:\Projects\xRandNetApi\Library\RegularHierarchicModel.pdb
+C:\Projects\xRandNetApi\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.csprojAssemblyReference.cache
+C:\Projects\xRandNetApi\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.csproj.CopyComplete
+C:\Projects\xRandNetApi\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.dll
+C:\Projects\xRandNetApi\RegularHierarchicModel\obj\Debug\RegularHierarchicModel.pdb

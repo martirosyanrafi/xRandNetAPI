@@ -16,3 +16,10 @@ C:\work\xRandNet_students\BAModel\obj\Debug\BAModel.csprojResolveAssemblyReferen
 C:\work\xRandNet_students\BAModel\obj\Debug\BAModel.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\BAModel\obj\Debug\BAModel.dll
 C:\work\xRandNet_students\BAModel\obj\Debug\BAModel.pdb
+C:\Projects\xRandNetApi\Library\BAModel.dll
+C:\Projects\xRandNetApi\Library\BAModel.pdb
+C:\Projects\xRandNetApi\BAModel\obj\Debug\BAModel.csprojAssemblyReference.cache
+C:\Projects\xRandNetApi\BAModel\obj\Debug\BAModel.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\BAModel\obj\Debug\BAModel.csproj.CopyComplete
+C:\Projects\xRandNetApi\BAModel\obj\Debug\BAModel.dll
+C:\Projects\xRandNetApi\BAModel\obj\Debug\BAModel.pdb

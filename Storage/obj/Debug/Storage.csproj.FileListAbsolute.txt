@@ -16,3 +16,10 @@ C:\work\xRandNet_students\Storage\obj\Debug\Storage.csprojResolveAssemblyReferen
 C:\work\xRandNet_students\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\Storage\obj\Debug\Storage.dll
 C:\work\xRandNet_students\Storage\obj\Debug\Storage.pdb
+C:\Projects\xRandNetApi\Library\Storage.dll
+C:\Projects\xRandNetApi\Library\Storage.pdb
+C:\Projects\xRandNetApi\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Projects\xRandNetApi\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Projects\xRandNetApi\Storage\obj\Debug\Storage.dll
+C:\Projects\xRandNetApi\Storage\obj\Debug\Storage.pdb

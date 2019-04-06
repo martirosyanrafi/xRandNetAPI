@@ -16,3 +16,10 @@ C:\work\xRandNet_students\WSModel\obj\Debug\WSModel.csprojResolveAssemblyReferen
 C:\work\xRandNet_students\WSModel\obj\Debug\WSModel.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\WSModel\obj\Debug\WSModel.dll
 C:\work\xRandNet_students\WSModel\obj\Debug\WSModel.pdb
+C:\Projects\xRandNetApi\Library\WSModel.dll
+C:\Projects\xRandNetApi\Library\WSModel.pdb
+C:\Projects\xRandNetApi\WSModel\obj\Debug\WSModel.csprojAssemblyReference.cache
+C:\Projects\xRandNetApi\WSModel\obj\Debug\WSModel.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\WSModel\obj\Debug\WSModel.csproj.CopyComplete
+C:\Projects\xRandNetApi\WSModel\obj\Debug\WSModel.dll
+C:\Projects\xRandNetApi\WSModel\obj\Debug\WSModel.pdb

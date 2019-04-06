@@ -14,3 +14,8 @@ C:\work\xRandNet_students\Library\RandomNumberGeneration.pdb
 C:\work\xRandNet_students\RandomNumberGeneration\obj\Debug\RandomNumberGeneration.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\RandomNumberGeneration\obj\Debug\RandomNumberGeneration.dll
 C:\work\xRandNet_students\RandomNumberGeneration\obj\Debug\RandomNumberGeneration.pdb
+C:\Projects\xRandNetApi\Library\RandomNumberGeneration.dll
+C:\Projects\xRandNetApi\Library\RandomNumberGeneration.pdb
+C:\Projects\xRandNetApi\RandomNumberGeneration\obj\Debug\RandomNumberGeneration.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\RandomNumberGeneration\obj\Debug\RandomNumberGeneration.dll
+C:\Projects\xRandNetApi\RandomNumberGeneration\obj\Debug\RandomNumberGeneration.pdb

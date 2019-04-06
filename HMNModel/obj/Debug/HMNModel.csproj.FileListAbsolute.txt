@@ -16,3 +16,10 @@ C:\work\xRandNet_students\HMNModel\obj\Debug\HMNModel.csprojResolveAssemblyRefer
 C:\work\xRandNet_students\HMNModel\obj\Debug\HMNModel.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\HMNModel\obj\Debug\HMNModel.dll
 C:\work\xRandNet_students\HMNModel\obj\Debug\HMNModel.pdb
+C:\Projects\xRandNetApi\Library\HMNModel.dll
+C:\Projects\xRandNetApi\Library\HMNModel.pdb
+C:\Projects\xRandNetApi\HMNModel\obj\Debug\HMNModel.csprojAssemblyReference.cache
+C:\Projects\xRandNetApi\HMNModel\obj\Debug\HMNModel.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\HMNModel\obj\Debug\HMNModel.csproj.CopyComplete
+C:\Projects\xRandNetApi\HMNModel\obj\Debug\HMNModel.dll
+C:\Projects\xRandNetApi\HMNModel\obj\Debug\HMNModel.pdb

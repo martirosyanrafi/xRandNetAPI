@@ -16,3 +16,10 @@ C:\work\xRandNet_students\NetworkModel\obj\Debug\NetworkModel.csprojResolveAssem
 C:\work\xRandNet_students\NetworkModel\obj\Debug\NetworkModel.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\NetworkModel\obj\Debug\NetworkModel.dll
 C:\work\xRandNet_students\NetworkModel\obj\Debug\NetworkModel.pdb
+C:\Projects\xRandNetApi\Library\NetworkModel.dll
+C:\Projects\xRandNetApi\Library\NetworkModel.pdb
+C:\Projects\xRandNetApi\NetworkModel\obj\Debug\NetworkModel.csprojAssemblyReference.cache
+C:\Projects\xRandNetApi\NetworkModel\obj\Debug\NetworkModel.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\NetworkModel\obj\Debug\NetworkModel.csproj.CopyComplete
+C:\Projects\xRandNetApi\NetworkModel\obj\Debug\NetworkModel.dll
+C:\Projects\xRandNetApi\NetworkModel\obj\Debug\NetworkModel.pdb

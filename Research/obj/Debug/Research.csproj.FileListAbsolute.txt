@@ -16,3 +16,10 @@ C:\work\xRandNet_students\Research\obj\Debug\Research.csprojResolveAssemblyRefer
 C:\work\xRandNet_students\Research\obj\Debug\Research.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\Research\obj\Debug\Research.dll
 C:\work\xRandNet_students\Research\obj\Debug\Research.pdb
+C:\Projects\xRandNetApi\Library\Research.dll
+C:\Projects\xRandNetApi\Library\Research.pdb
+C:\Projects\xRandNetApi\Research\obj\Debug\Research.csprojAssemblyReference.cache
+C:\Projects\xRandNetApi\Research\obj\Debug\Research.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\Research\obj\Debug\Research.csproj.CopyComplete
+C:\Projects\xRandNetApi\Research\obj\Debug\Research.dll
+C:\Projects\xRandNetApi\Research\obj\Debug\Research.pdb

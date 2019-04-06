@@ -16,3 +16,10 @@ C:\work\xRandNet_students\Manager\obj\Debug\Manager.csprojResolveAssemblyReferen
 C:\work\xRandNet_students\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\Manager\obj\Debug\Manager.dll
 C:\work\xRandNet_students\Manager\obj\Debug\Manager.pdb
+C:\Projects\xRandNetApi\Library\Manager.dll
+C:\Projects\xRandNetApi\Library\Manager.pdb
+C:\Projects\xRandNetApi\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Projects\xRandNetApi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\Manager\obj\Debug\Manager.csproj.CopyComplete
+C:\Projects\xRandNetApi\Manager\obj\Debug\Manager.dll
+C:\Projects\xRandNetApi\Manager\obj\Debug\Manager.pdb

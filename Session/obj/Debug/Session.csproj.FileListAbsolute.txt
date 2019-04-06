@@ -16,3 +16,10 @@ C:\work\xRandNet_students\Session\obj\Debug\Session.csprojResolveAssemblyReferen
 C:\work\xRandNet_students\Session\obj\Debug\Session.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\Session\obj\Debug\Session.dll
 C:\work\xRandNet_students\Session\obj\Debug\Session.pdb
+C:\Projects\xRandNetApi\Library\Session.dll
+C:\Projects\xRandNetApi\Library\Session.pdb
+C:\Projects\xRandNetApi\Session\obj\Debug\Session.csprojAssemblyReference.cache
+C:\Projects\xRandNetApi\Session\obj\Debug\Session.csproj.CoreCompileInputs.cache
+C:\Projects\xRandNetApi\Session\obj\Debug\Session.csproj.CopyComplete
+C:\Projects\xRandNetApi\Session\obj\Debug\Session.dll
+C:\Projects\xRandNetApi\Session\obj\Debug\Session.pdb
