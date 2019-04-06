@@ -16,9 +16,3 @@ C:\work\xRandNet_students\ModelChecking\obj\Debug\ModelChecking.csprojResolveAss
 C:\work\xRandNet_students\ModelChecking\obj\Debug\ModelChecking.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\ModelChecking\obj\Debug\ModelChecking.dll
 C:\work\xRandNet_students\ModelChecking\obj\Debug\ModelChecking.pdb
-D:\projects\xRandNet\api\application\Library\ModelChecking.dll
-D:\projects\xRandNet\api\application\Library\ModelChecking.pdb
-D:\projects\xRandNet\api\application\ModelChecking\obj\Debug\ModelChecking.csproj.CoreCompileInputs.cache
-D:\projects\xRandNet\api\application\ModelChecking\obj\Debug\ModelChecking.csproj.CopyComplete
-D:\projects\xRandNet\api\application\ModelChecking\obj\Debug\ModelChecking.dll
-D:\projects\xRandNet\api\application\ModelChecking\obj\Debug\ModelChecking.pdb

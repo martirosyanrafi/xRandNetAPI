@@ -16,17 +16,3 @@ C:\work\xRandNet_students\NetworkModel\obj\Debug\NetworkModel.csprojResolveAssem
 C:\work\xRandNet_students\NetworkModel\obj\Debug\NetworkModel.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\NetworkModel\obj\Debug\NetworkModel.dll
 C:\work\xRandNet_students\NetworkModel\obj\Debug\NetworkModel.pdb
-D:\projects\xRandNet\api\application\Library\NetworkModel.dll
-D:\projects\xRandNet\api\application\Library\NetworkModel.pdb
-D:\projects\xRandNet\api\application\NetworkModel\obj\Debug\NetworkModel.csprojResolveAssemblyReference.cache
-D:\projects\xRandNet\api\application\NetworkModel\obj\Debug\NetworkModel.csproj.CoreCompileInputs.cache
-D:\projects\xRandNet\api\application\NetworkModel\obj\Debug\NetworkModel.csproj.CopyComplete
-D:\projects\xRandNet\api\application\NetworkModel\obj\Debug\NetworkModel.dll
-D:\projects\xRandNet\api\application\NetworkModel\obj\Debug\NetworkModel.pdb
-D:\projects\xRandNetApplicationAPI\Library\NetworkModel.dll
-D:\projects\xRandNetApplicationAPI\Library\NetworkModel.pdb
-D:\projects\xRandNetApplicationAPI\NetworkModel\obj\Debug\NetworkModel.csprojResolveAssemblyReference.cache
-D:\projects\xRandNetApplicationAPI\NetworkModel\obj\Debug\NetworkModel.csproj.CoreCompileInputs.cache
-D:\projects\xRandNetApplicationAPI\NetworkModel\obj\Debug\NetworkModel.csproj.CopyComplete
-D:\projects\xRandNetApplicationAPI\NetworkModel\obj\Debug\NetworkModel.dll
-D:\projects\xRandNetApplicationAPI\NetworkModel\obj\Debug\NetworkModel.pdb

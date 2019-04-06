@@ -16,17 +16,3 @@ C:\work\xRandNet_students\Core\obj\Debug\Core.csprojResolveAssemblyReference.cac
 C:\work\xRandNet_students\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\Core\obj\Debug\Core.dll
 C:\work\xRandNet_students\Core\obj\Debug\Core.pdb
-D:\projects\xRandNet\api\application\Library\Core.dll
-D:\projects\xRandNet\api\application\Library\Core.pdb
-D:\projects\xRandNet\api\application\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
-D:\projects\xRandNet\api\application\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
-D:\projects\xRandNet\api\application\Core\obj\Debug\Core.csproj.CopyComplete
-D:\projects\xRandNet\api\application\Core\obj\Debug\Core.dll
-D:\projects\xRandNet\api\application\Core\obj\Debug\Core.pdb
-D:\projects\xRandNetApplicationAPI\Library\Core.dll
-D:\projects\xRandNetApplicationAPI\Library\Core.pdb
-D:\projects\xRandNetApplicationAPI\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
-D:\projects\xRandNetApplicationAPI\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
-D:\projects\xRandNetApplicationAPI\Core\obj\Debug\Core.csproj.CopyComplete
-D:\projects\xRandNetApplicationAPI\Core\obj\Debug\Core.dll
-D:\projects\xRandNetApplicationAPI\Core\obj\Debug\Core.pdb

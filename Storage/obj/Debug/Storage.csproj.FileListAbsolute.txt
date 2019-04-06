@@ -16,16 +16,3 @@ C:\work\xRandNet_students\Storage\obj\Debug\Storage.csprojResolveAssemblyReferen
 C:\work\xRandNet_students\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\Storage\obj\Debug\Storage.dll
 C:\work\xRandNet_students\Storage\obj\Debug\Storage.pdb
-D:\projects\xRandNet\api\application\Library\Storage.dll
-D:\projects\xRandNet\api\application\Library\Storage.pdb
-D:\projects\xRandNet\api\application\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
-D:\projects\xRandNet\api\application\Storage\obj\Debug\Storage.csproj.CopyComplete
-D:\projects\xRandNet\api\application\Storage\obj\Debug\Storage.dll
-D:\projects\xRandNet\api\application\Storage\obj\Debug\Storage.pdb
-D:\projects\xRandNetApplicationAPI\Library\Storage.dll
-D:\projects\xRandNetApplicationAPI\Library\Storage.pdb
-D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
-D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
-D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.csproj.CopyComplete
-D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.dll
-D:\projects\xRandNetApplicationAPI\Storage\obj\Debug\Storage.pdb

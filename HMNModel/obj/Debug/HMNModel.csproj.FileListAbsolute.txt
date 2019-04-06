@@ -16,16 +16,3 @@ C:\work\xRandNet_students\HMNModel\obj\Debug\HMNModel.csprojResolveAssemblyRefer
 C:\work\xRandNet_students\HMNModel\obj\Debug\HMNModel.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\HMNModel\obj\Debug\HMNModel.dll
 C:\work\xRandNet_students\HMNModel\obj\Debug\HMNModel.pdb
-D:\projects\xRandNet\api\application\Library\HMNModel.dll
-D:\projects\xRandNet\api\application\Library\HMNModel.pdb
-D:\projects\xRandNet\api\application\HMNModel\obj\Debug\HMNModel.csproj.CoreCompileInputs.cache
-D:\projects\xRandNet\api\application\HMNModel\obj\Debug\HMNModel.csproj.CopyComplete
-D:\projects\xRandNet\api\application\HMNModel\obj\Debug\HMNModel.dll
-D:\projects\xRandNet\api\application\HMNModel\obj\Debug\HMNModel.pdb
-D:\projects\xRandNetApplicationAPI\Library\HMNModel.dll
-D:\projects\xRandNetApplicationAPI\Library\HMNModel.pdb
-D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.csproj.CoreCompileInputs.cache
-D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.csproj.CopyComplete
-D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.dll
-D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.pdb
-D:\projects\xRandNetApplicationAPI\HMNModel\obj\Debug\HMNModel.csprojResolveAssemblyReference.cache

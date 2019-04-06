@@ -16,16 +16,3 @@ C:\work\xRandNet_students\BAModel\obj\Debug\BAModel.csprojResolveAssemblyReferen
 C:\work\xRandNet_students\BAModel\obj\Debug\BAModel.csproj.CoreCompileInputs.cache
 C:\work\xRandNet_students\BAModel\obj\Debug\BAModel.dll
 C:\work\xRandNet_students\BAModel\obj\Debug\BAModel.pdb
-D:\projects\xRandNet\api\application\Library\BAModel.dll
-D:\projects\xRandNet\api\application\Library\BAModel.pdb
-D:\projects\xRandNet\api\application\BAModel\obj\Debug\BAModel.csproj.CoreCompileInputs.cache
-D:\projects\xRandNet\api\application\BAModel\obj\Debug\BAModel.csproj.CopyComplete
-D:\projects\xRandNet\api\application\BAModel\obj\Debug\BAModel.dll
-D:\projects\xRandNet\api\application\BAModel\obj\Debug\BAModel.pdb
-D:\projects\xRandNetApplicationAPI\Library\BAModel.dll
-D:\projects\xRandNetApplicationAPI\Library\BAModel.pdb
-D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.csprojResolveAssemblyReference.cache
-D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.csproj.CoreCompileInputs.cache
-D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.csproj.CopyComplete
-D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.dll
-D:\projects\xRandNetApplicationAPI\BAModel\obj\Debug\BAModel.pdb
