@@ -1,0 +1,134 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch development
+# Your branch is up to date with 'origin/development'.
+#
+# Changes to be committed:
+#	modified:   BAModel/obj/Debug/BAModel.csproj.CoreCompileInputs.cache
+#	modified:   BAModel/obj/Debug/BAModel.csproj.FileListAbsolute.txt
+#	modified:   BAModel/obj/Debug/BAModel.dll
+#	modified:   BAModel/obj/Debug/BAModel.pdb
+#	modified:   Core/obj/Debug/Core.csproj.CoreCompileInputs.cache
+#	modified:   Core/obj/Debug/Core.csproj.FileListAbsolute.txt
+#	modified:   Core/obj/Debug/Core.dll
+#	modified:   Core/obj/Debug/Core.pdb
+#	modified:   ERModel/obj/Debug/ERModel.csproj.CoreCompileInputs.cache
+#	modified:   ERModel/obj/Debug/ERModel.csproj.FileListAbsolute.txt
+#	modified:   ERModel/obj/Debug/ERModel.dll
+#	modified:   ERModel/obj/Debug/ERModel.pdb
+#	modified:   HMNModel/obj/Debug/HMNModel.csproj.CoreCompileInputs.cache
+#	modified:   HMNModel/obj/Debug/HMNModel.csproj.FileListAbsolute.txt
+#	modified:   HMNModel/obj/Debug/HMNModel.dll
+#	modified:   HMNModel/obj/Debug/HMNModel.pdb
+#	modified:   Library/BAModel.dll
+#	modified:   Library/BAModel.pdb
+#	modified:   Library/Core.dll
+#	modified:   Library/Core.pdb
+#	modified:   Library/ERModel.dll
+#	modified:   Library/ERModel.pdb
+#	modified:   Library/HMNModel.dll
+#	modified:   Library/HMNModel.pdb
+#	modified:   Library/Manager.dll
+#	modified:   Library/Manager.pdb
+#	modified:   Library/ModelChecking.dll
+#	modified:   Library/ModelChecking.pdb
+#	modified:   Library/NetworkModel.dll
+#	modified:   Library/NetworkModel.pdb
+#	modified:   Library/NonRegularHierarchicModel.dll
+#	modified:   Library/NonRegularHierarchicModel.pdb
+#	modified:   Library/RandNet.application
+#	modified:   Library/RandNet.exe
+#	modified:   Library/RandNet.exe.Config
+#	modified:   Library/RandNet.exe.manifest
+#	modified:   Library/RandNet.pdb
+#	modified:   Library/RandomNumberGeneration.dll
+#	modified:   Library/RandomNumberGeneration.pdb
+#	modified:   Library/RegularHierarchicModel.dll
+#	modified:   Library/RegularHierarchicModel.pdb
+#	modified:   Library/Research.dll
+#	modified:   Library/Research.pdb
+#	modified:   Library/Session.dll
+#	modified:   Library/Session.pdb
+#	modified:   Library/Storage.dll
+#	modified:   Library/Storage.pdb
+#	modified:   Library/WSModel.dll
+#	modified:   Library/WSModel.pdb
+#	modified:   Library/app.publish/RandNet.exe
+#	modified:   Manager/obj/Debug/Manager.csproj.CoreCompileInputs.cache
+#	modified:   Manager/obj/Debug/Manager.csproj.FileListAbsolute.txt
+#	modified:   Manager/obj/Debug/Manager.dll
+#	modified:   Manager/obj/Debug/Manager.pdb
+#	modified:   ModelChecking/obj/Debug/ModelChecking.csproj.CoreCompileInputs.cache
+#	modified:   ModelChecking/obj/Debug/ModelChecking.csproj.FileListAbsolute.txt
+#	modified:   ModelChecking/obj/Debug/ModelChecking.dll
+#	modified:   ModelChecking/obj/Debug/ModelChecking.pdb
+#	modified:   NetworkModel/obj/Debug/NetworkModel.csproj.CoreCompileInputs.cache
+#	modified:   NetworkModel/obj/Debug/NetworkModel.csproj.FileListAbsolute.txt
+#	modified:   NetworkModel/obj/Debug/NetworkModel.dll
+#	modified:   NetworkModel/obj/Debug/NetworkModel.pdb
+#	modified:   NonRegularHierarchicModel/obj/Debug/NonRegularHierarchicModel.csproj.CoreCompileInputs.cache
+#	modified:   NonRegularHierarchicModel/obj/Debug/NonRegularHierarchicModel.csproj.FileListAbsolute.txt
+#	modified:   NonRegularHierarchicModel/obj/Debug/NonRegularHierarchicModel.dll
+#	modified:   NonRegularHierarchicModel/obj/Debug/NonRegularHierarchicModel.pdb
+#	modified:   RandNet.sln
+#	modified:   RandNet/RandNet.csproj.user
+#	modified:   RandNet/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	modified:   RandNet/obj/x86/Debug/RandNet.application
+#	modified:   RandNet/obj/x86/Debug/RandNet.csproj.CoreCompileInputs.cache
+#	modified:   RandNet/obj/x86/Debug/RandNet.csproj.FileListAbsolute.txt
+#	modified:   RandNet/obj/x86/Debug/RandNet.csproj.GenerateResource.cache
+#	modified:   RandNet/obj/x86/Debug/RandNet.exe
+#	modified:   RandNet/obj/x86/Debug/RandNet.exe.manifest
+#	modified:   RandNet/obj/x86/Debug/RandNet.pdb
+#	modified:   RandNetStat/obj/x86/Debug/RandNetStat.csproj.CoreCompileInputs.cache
+#	modified:   RandomNumberGeneration/obj/Debug/RandomNumberGeneration.csproj.CoreCompileInputs.cache
+#	modified:   RandomNumberGeneration/obj/Debug/RandomNumberGeneration.csproj.FileListAbsolute.txt
+#	modified:   RandomNumberGeneration/obj/Debug/RandomNumberGeneration.dll
+#	modified:   RandomNumberGeneration/obj/Debug/RandomNumberGeneration.pdb
+#	modified:   RegularHierarchicModel/obj/Debug/RegularHierarchicModel.csproj.CoreCompileInputs.cache
+#	modified:   RegularHierarchicModel/obj/Debug/RegularHierarchicModel.csproj.FileListAbsolute.txt
+#	modified:   RegularHierarchicModel/obj/Debug/RegularHierarchicModel.dll
+#	modified:   RegularHierarchicModel/obj/Debug/RegularHierarchicModel.pdb
+#	modified:   Research/obj/Debug/Research.csproj.CoreCompileInputs.cache
+#	modified:   Research/obj/Debug/Research.csproj.FileListAbsolute.txt
+#	modified:   Research/obj/Debug/Research.dll
+#	modified:   Research/obj/Debug/Research.pdb
+#	modified:   Session/obj/Debug/Session.csproj.CoreCompileInputs.cache
+#	modified:   Session/obj/Debug/Session.csproj.FileListAbsolute.txt
+#	modified:   Session/obj/Debug/Session.dll
+#	modified:   Session/obj/Debug/Session.pdb
+#	modified:   Storage/obj/Debug/Storage.csproj.CoreCompileInputs.cache
+#	modified:   Storage/obj/Debug/Storage.csproj.FileListAbsolute.txt
+#	modified:   Storage/obj/Debug/Storage.dll
+#	modified:   Storage/obj/Debug/Storage.pdb
+#	modified:   WSModel/obj/Debug/WSModel.csproj.CoreCompileInputs.cache
+#	modified:   WSModel/obj/Debug/WSModel.csproj.FileListAbsolute.txt
+#	modified:   WSModel/obj/Debug/WSModel.dll
+#	modified:   WSModel/obj/Debug/WSModel.pdb
+#
+# Untracked files:
+#	'
+#	.vs/
+#	Api/
+#	BAModel/obj/Debug/BAModel.csprojAssemblyReference.cache
+#	Core/obj/Debug/Core.csprojAssemblyReference.cache
+#	HMNModel/obj/Debug/HMNModel.csprojAssemblyReference.cache
+#	Manager/obj/Debug/Manager.csprojAssemblyReference.cache
+#	ModelChecking/obj/Debug/ModelChecking.csprojAssemblyReference.cache
+#	NetworkModel/obj/Debug/NetworkModel.csprojAssemblyReference.cache
+#	NonRegularHierarchicModel/obj/Debug/NonRegularHierarchicModel.csprojAssemblyReference.cache
+#	RandNet/obj/x86/Debug/RandNet.csprojAssemblyReference.cache
+#	RandNet/obj/x86/Debug/build.force
+#	RandNetStat/obj/x86/Debug/RandNetStat.csprojAssemblyReference.cache
+#	RegularHierarchicModel/obj/Debug/RegularHierarchicModel.csprojAssemblyReference.cache
+#	Research/obj/Debug/Research.csprojAssemblyReference.cache
+#	Session/obj/Debug/Session.csprojAssemblyReference.cache
+#	Storage/obj/Debug/Storage.csprojAssemblyReference.cache
+#	WSModel/obj/Debug/WSModel.csprojAssemblyReference.cache
+#	packages/
+#	xRandNet/Logging/randnet_2019_04_06_23_21_12.log
+#	xRandNet/Logging/randnet_2019_04_06_23_21_47.log
+#	xRandNet/Logging/randnet_2019_04_06_23_30_51.log
+#
